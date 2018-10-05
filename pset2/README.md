@@ -224,9 +224,9 @@ Insert about me
 
 ---
 ### Heriberto Uroza
-<img src='' width='150'>
+<img src='images/heribertou.jpg' width='150'>
 
-Insert about me
+This is the bio section :)
 
 ---
 ### Kevin Waring
